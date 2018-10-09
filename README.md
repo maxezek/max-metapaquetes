@@ -46,9 +46,9 @@ Se trata de una utilidad de instalación para instalar de una sola vez varios pa
 
 Se trata de una utilidad de instalación para instalar de una sola vez varios paquetes relacionados con sonido y música.
 
-rosegarden
-ardour
-lmms
-mixx
-jack
-audacious
+- rosegarden
+- ardour
+- lmms
+- mixx
+- jack
+- audacious
