@@ -1,5 +1,5 @@
 
-![MAX 10](/home/madrid/ownCloud/Vídeos/OBS/LogoMAX.png  "MAX 10")
+![MAX 10](https://github.com/maxezek/max-robotica/blob/master/LogoMAX.png "MAX 10")
 
 #**Solo para MAX 10**
 
