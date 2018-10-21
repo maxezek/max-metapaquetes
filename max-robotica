@@ -10,11 +10,11 @@ Package: max-robotica
 Version: 1.0
 Maintainer: Ezequiel Cabrillo ezequiel.cabrillo@educa.madrid.org
 # Pre-Depends: <comma-separated list of packages>
-Depends: openroberta,bitbloq-offline,s4a,snap4arduino,processing3,ardublock,edware,blocklyduino,mblock
+Depends: openroberta,bitbloq-offline,s4a,snap4arduino,processing3,ardublock,max-edware,blocklyduino,mblock
 # Suggests: <comma-separated list of packages>
 # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
-# Architecture: all
+Architecture: all
 # Multi-Arch: <one of: foreign|same|allowed>
 # Copyright: <copyright file; defaults to GPL2>
 # Changelog: <changelog file; defaults to a generic changelog>
