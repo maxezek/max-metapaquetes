@@ -10,7 +10,7 @@ Package: max-diseno3D
 Version: 1.0
 Maintainer: Ezequiel Cabrillo ezequiel.cabrillo@educa.madrid.org
 # Pre-Depends: <comma-separated list of packages>
-Depends: openscad,freecad,meshlab,cura-engine,sweethome3d,blender,repetier-host
+Depends: openscad,freecad,meshlab,cura-engine,sweethome3d,blender,repetier-host,max-blockscad
 # Suggests: <comma-separated list of packages>
 # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
