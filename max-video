@@ -14,7 +14,7 @@ Depends: kazam,obs-studio,obs-plugins,obs-linuxbrowser,flowblade,jitsi,shotcut,p
 # Suggests: <comma-separated list of packages>
 # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
-# Architecture: all
+Architecture: all
 # Multi-Arch: <one of: foreign|same|allowed>
 # Copyright: <copyright file; defaults to GPL2>
 # Changelog: <changelog file; defaults to a generic changelog>
