@@ -23,7 +23,7 @@ Depends: kazam,obs-studio,obs-plugins,obs-linuxbrowser,flowblade,jitsi,shotcut,p
 # Links: <pair of space-separated paths; First is path symlink points at, second is filename of link>
 # Files: <pair of space-separated paths; First is file to include, second is destination>
 #  <more pairs, if there's more than one file to include. Notice the starting space>
-Description: Metapaquete para instalar paquetes recomendados para robótica 
+Description: Metapaquete para instalar paquetes recomendados para vídeo, streaming y captura
  long description and info
  .
  second paragraph
