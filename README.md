@@ -52,3 +52,15 @@ Se trata de una utilidad de instalación para instalar de una sola vez varios pa
 - mixx
 - jack
 - audacious
+
+
+**Metapaquete max-estadistica**
+
+Se trata de una utilidad de instalación para instalar de una sola vez varios paquetes relacionados con matemáticas, estadística .
+
+- science-config
+- sciene-economics
+- mathlab
+- octave
+- geogebra6
+- dynare
