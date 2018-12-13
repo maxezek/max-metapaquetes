@@ -8,9 +8,9 @@ Standards-Version: 3.9.2
 
 Package: max-diseno3D
 Version: 1.0
-Maintainer: Ezequiel Cabrillo ezequiel.cabrillo@educa.madrid.org
+Maintainer: Ezequiel Cabrillo <ezequiel.cabrillo@educa.madrid.org>
 # Pre-Depends: <comma-separated list of packages>
-Depends: openscad,freecad,meshlab,cura-engine,sweethome3d,blender,repetier-host,max-blockscad
+Depends: openscad,freecad,meshlab,cura-engine,sweethome3d,blender,repetier-host
 # Suggests: <comma-separated list of packages>
 # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
@@ -24,6 +24,5 @@ Architecture: all
 # Files: <pair of space-separated paths; First is file to include, second is destination>
 #  <more pairs, if there's more than one file to include. Notice the starting space>
 Description: Metapaquete para instalar paquetes recomendados para el diseño e impresión 3D
- long description and info
+  Incluye FreeCAD, MeshLab, cura, ...
  .
- second paragraph
